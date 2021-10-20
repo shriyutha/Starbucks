@@ -1,4 +1,4 @@
-##Starbucks-Promotion
+# Starbucks-Promotion:
 
 This project is take-home assignment for the candidates of Starbucks Data scientist recruitment.
 
@@ -10,4 +10,12 @@ training.csv - Training data
 Test.csv - Testing data
 
 ## Dependencies:
-1)XGBoost 2)imlearn 3)SciPy 4)Sklearn 5)Numpy
+1)XGBoost 
+
+2)imlearn
+
+3)SciPy 
+
+4)Sklearn
+
+5)Numpy
