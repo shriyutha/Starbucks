@@ -10,12 +10,12 @@ training.csv - Training data
 Test.csv - Testing data
 
 ## Dependencies:
-1)XGBoost 
+* XGBoost 
 
-2)imlearn
+* imlearn
 
-3)SciPy 
+* SciPy 
 
-4)Sklearn
+* Sklearn
 
-5)Numpy
+* Numpy
